@@ -19,9 +19,9 @@ I've had the pleasure to work with small web shops all the way to 9 figure busin
 
 ### Other Fun Stuff
 
-- 🌱 I’m currently learning: #### GraphQL
-- 📫 How to reach me: #### giancarlo@casakota.com
-- ⚡ Fun fact: #### I do BJJ and scuba dive
+- 🌱 I’m currently learning: GraphQL
+- 📫 How to reach me: giancarlo@casakota.com
+- ⚡ Fun fact: I do BJJ and scuba dive
 
 <!--
 **gferrer807/gferrer807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
