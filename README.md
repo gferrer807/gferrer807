@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Geo!</h1>
+<h1 align="center">Hi, I'm Giancarlo, but you can call me Geo!</h1>
 
 
 
