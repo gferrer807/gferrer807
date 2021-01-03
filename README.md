@@ -20,7 +20,7 @@ I've had the pleasure to work with small web shops all the way to 9 figure busin
 ### Other Fun Stuff
 
 - 🌱 I’m currently learning: <strong>GraphQL</strong>
-- 📫 How to reach me: <strong>giancarlo.ferrer9307@gmail.com</strong>
+- 📫 How to reach me: <strong>ferrergiancarlo@gmail.com</strong>
 - ⚡ Fun fact: <strong>I do BJJ and scuba dive</strong>
 
 <!--
