@@ -17,12 +17,6 @@ I've had the pleasure to work with small web shops all the way to 9 figure busin
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gferrer807&layout=compact&hide=makefile&bg_color=091f40&text_color=f6f6f6&title_color=c5203e&icon_color=c5203e" alt="Most used languages" />
 </p>
 
-### Other Fun Stuff
-
-- 🌱 I’m currently learning: <strong>GraphQL</strong>
-- 📫 How to reach me: <strong>ferrergiancarlo@gmail.com</strong>
-- ⚡ Fun fact: <strong>I do BJJ and scuba dive</strong>
-
 <!--
 **gferrer807/gferrer807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
