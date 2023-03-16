@@ -3,7 +3,7 @@
 
 
 ### A little bit about me
-Hello World! My name is Giancarlo but my friends call me Geo. I'm a full-stack engineer focused on the MERN stack. I'm very business oriented and love proving business ideas can work. I have succesfully made money (don't tell the VCs) and delivered client satisfaction with a clothing business, SEO business and web development business (I still do this). The journey never ends and I look forward to it everyday.
+Hello World! My name Geo. I'm a full-stack engineer.
 
 ### Past Work
 
