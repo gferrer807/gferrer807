@@ -1,9 +1,5 @@
-<h1 align="center">Hi, I'm Giancarlo, but you can call me Geo!</h1>
-
-
-
 ### A little bit about me
-Hello World! My name Geo. I'm a full-stack engineer.
+Hello World! My name is Geo. I'm a full-stack engineer.
 
 ### Past Work
 
